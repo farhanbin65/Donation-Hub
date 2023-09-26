@@ -9,7 +9,7 @@ const Donations = ({donation}) => {
       <div style={{background:backgroundColor}} className={"card shadow-xl mt-10"}>
         <figure><img src={image}/></figure>
         <div className="p-4 text-left">
-          <p style={{textColor:textColor}}>{name}</p>
+          <p style={{color:textColor}}>{name}</p>
           <h2 className="card-title">{title}</h2>
         </div>
       </div>

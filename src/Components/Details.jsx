@@ -13,7 +13,7 @@ const Details = () => {
         saveDonations(idInt);
         toast('You Have Donated Successfully')
     }
-    // console.log(detail)
+    // console.log()
     return (
         <div>
             <div className="static">

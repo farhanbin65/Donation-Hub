@@ -6,8 +6,8 @@
         "image": "https://i.ibb.co/zRQhRz1/Food.png",
         "description": "We aim to provide nutritious meals to underserved communities, homeless individuals, and families facing food insecurity. Your contribution will help us organize food drives, establish community kitchens, and distribute food packages to those in need.Support our food distribution program.",
         "price": 10.0,
-        "textColor": "#FF5733",
-        "backgroundColor": "#eceda1"
+        "textColor": "#F87147",
+        "backgroundColor": "#F8714726"
     },
     {
         "id": 11,
@@ -16,8 +16,8 @@
         "image": "https://i.ibb.co/PxLD2pN/Clothing.png",
         "description": " As the seasons change, many people lack access to warm clothing. Our campaign will collect new and gently-used clothing items to distribute to the less fortunate, ensuring they stay warm during the colder months.Support clothing drives for the homeless.",
         "price": 10.0,
-        "textColor": "#FF3357",
-        "backgroundColor": "#eda1d9"
+        "textColor": "#79C23F",
+        "backgroundColor": "#79C23F26"
     },  
     {
         "id": 4,
@@ -26,8 +26,8 @@
         "image": "https://i.ibb.co/DzRvk4p/Health.png",
         "description": "Good health is a fundamental right. Through our campaign, we aim to provide access to medical care, vaccinations, and health education to underserved communities. Your donation will help us set up health camps and clinics in areas with limited healthcare access.Support healthcare initiatives.",
         "price": 30.0,
-        "textColor": "#33FF57",
-        "backgroundColor": "#a1edbb"
+        "textColor": "#0052FF",
+        "backgroundColor": "#0052FF26"
     },
     {
         "id": 3,
@@ -36,8 +36,8 @@
         "image": "https://i.ibb.co/zRQhRz1/Food.png",
         "description": "We aim to provide nutritious meals to derserved communities, homeless individuals, and families facing food insecurity. Your contribution will help us organize food drives, establish community kitchens, and distribute food packages to those in need.Contribute to our food bank.",
         "price": 15.0,
-        "textColor": "#FF5733",
-        "backgroundColor": "#eceda1"
+        "textColor": "#F87147",
+        "backgroundColor": "#F8714726"
     },   
     {
         "id": 5,
@@ -46,8 +46,8 @@
         "image": "https://i.ibb.co/DzRvk4p/Health.png",
         "description": "Good health is a fundamental right. Through our campaign, we aim to provide access to medical care, vaccinations, and health education to derserved communities. Your donation will help us set up health camps and clinics in areas with limited healthcare access.Provide medical supplies to clinics.",
         "price": 25.0,
-        "textColor": "#33FF57",
-        "backgroundColor": "#a1edbb"
+        "textColor": "#0052FF",
+        "backgroundColor": "#0052FF26"
     }, 
     {
         "id": 7,
@@ -56,8 +56,8 @@
         "image": "https://i.ibb.co/7ktqzRs/Education.png",
         "description": " Education is a powerful tool for breaking the cycle of poverty. We are committed to providing educational resources, scholarships, and opportunities to children from low-income backgrounds. Your support will help them achieve their dreams and build a brighter future.Help provide educational resources.",
         "price": 15.0,
-        "textColor": "#5733FF",
-        "backgroundColor": "#a1e4ed"
+        "textColor": "#FF444A",
+        "backgroundColor": "#FF444A26"
     },
     {
         "id": 8,
@@ -66,8 +66,8 @@
         "image": "https://i.ibb.co/7ktqzRs/Education.png",
         "description": " Education is a powerful tool for breaking the cycle of poverty. We are committed to providing educational resources, scholarships, and opportunities to children from low-income backgrounds. Your support will help them achieve their dreams and build a brighter future.Support scholarships for students.",
         "price": 50.0,
-        "textColor": "#5733FF",
-        "backgroundColor": "#a1e4ed"
+        "textColor": "#FF444A",
+        "backgroundColor": "#FF444A26"
     },
     {
         "id": 2,
@@ -76,8 +76,8 @@
         "image": "https://i.ibb.co/zRQhRz1/Food.png",
         "description": "We aim to provide nutritious meals to derserved communities, homeless individuals, and families facing food insecurity. Your contribution will help us organize food drives, establish community kitchens, and distribute food packages to those in need.Help provide meals to those in need.",
         "price": 20.0,
-        "textColor": "#FF5733",
-        "backgroundColor": "#eceda1"
+        "textColor": "#F87147",
+        "backgroundColor": "#F8714726"
     },
     {
         "id": 9,
@@ -86,8 +86,8 @@
         "image": "https://i.ibb.co/7ktqzRs/Education.png",
         "description": " Education is a powerful tool for breaking the cycle of poverty. We are committed to providing educational resources, scholarships, and opportunities to children from low-income backgrounds. Your support will help them achieve their dreams and build a brighter future.Contribute to educational institutions.",
         "price": 35.0,
-        "textColor": "#5733FF",
-        "backgroundColor": "#a1e4ed"
+        "textColor": "#FF444A",
+        "backgroundColor": "#FF444A26"
     },    
     {
         "id": 10,
@@ -96,8 +96,8 @@
         "image": "https://i.ibb.co/PxLD2pN/Clothing.png",
         "description": " As the seasons change, many people lack access to warm clothing. Our campaign will collect new and gently-used clothing items to distribute to the less fortunate, ensuring they stay warm during the colder months.Provide warm clothing for those in need.",
         "price": 20.0,
-        "textColor": "#FF3357",
-        "backgroundColor": "#eda1d9"
+        "textColor": "#79C23F",
+        "backgroundColor": "#79C23F26"
     },
     {
         "id": 6,
@@ -106,8 +106,8 @@
         "image": "https://i.ibb.co/DzRvk4p/Health.png",
         "description": "Good health is a fundamental right. Through our campaign, we aim to provide access to medical care, vaccinations, and health education to underserved communities. Your donation will help us set up health camps and clinics in areas with limited healthcare access.Support healthcare workers.",
         "price": 40.0,
-        "textColor": "#33FF57",
-        "backgroundColor": "#a1edbb"
+        "textColor": "#0052FF",
+        "backgroundColor": "#0052FF26"
     },
     {
         "id": 12,
@@ -116,8 +116,8 @@
         "image": "https://i.ibb.co/PxLD2pN/Clothing.png",
         "description": " As the seasons change, many people lack access to warm clothing. Our campaign will collect new and gently-used clothing items to distribute to the less fortunate, ensuring they stay warm during the colder months.Contribute to clothing banks.",
         "price": 15.0,
-        "textColor": "#FF3357",
-        "backgroundColor": "#eda1d9"
+        "textColor": "#79C23F",
+        "backgroundColor": "#79C23F26"
     }
 ]
         
