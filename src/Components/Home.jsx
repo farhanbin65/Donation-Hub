@@ -4,6 +4,7 @@ import "../App.css";
 
 const Home = () => {
     const [donations, setDonations] = useState([]);
+    
     useEffect(()=>{
         fetch('donation.json')
         .then(res => res.json())

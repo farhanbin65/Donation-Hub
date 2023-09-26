@@ -1,7 +1,10 @@
 const Statistics = () => {
     return (
+
+        
+
         <div>
-            <h1>School er thakte taman shohox chilo</h1>
+            <h1>Could not make it</h1>
         </div>
     );
 };
