@@ -7,6 +7,7 @@ const Donation = () => {
     const donations = useLoaderData();
 
     const [donationReceived, setDonationReceived] = useState([]);
+    const [dataLength, setDataLength]= useState(4);
 
     useEffect(()=>{
         const storedDonationIds = getStoredDonation();
@@ -24,24 +25,28 @@ const Donation = () => {
     },[])
     
     return (
-        <div className="grid grid-cols-2 gap-4">
+       <div>
+         <div className="grid grid-cols-2 gap-4">
             {
-                donationReceived.map(gotDonation =>
-                    <div  key={gotDonation.id}>
-                        <div className="flex my-4 rounded-lg" style={{background:gotDonation.textColor}}>
-                        <div ><img  className="h-44" src={gotDonation.image} alt="" /></div>
-                        <div className="p-2">
-                            <h2>{gotDonation.name}</h2>
-                            <p className="text-2xl font-semibold">{gotDonation.title}</p>
-                            <p className="text-base font-semibold">${gotDonation.price}.00</p>
-                            <Link to={`/donation/${gotDonation.id}`}><button className="btn btn-primary px-4 p-1" >Details</button></Link>
-                        </div>
-                        </div>
+            donationReceived.slice(0, dataLength).map(gotDonation =>
+                <div  key={gotDonation.id}>
+                    <div className="flex my-4 rounded-lg" style={{background:gotDonation.textColor}}>
+                    <div ><img  className="h-44" src={gotDonation.image} alt="" /></div>
+                    <div className="p-2">
+                        <h2>{gotDonation.name}</h2>
+                        <p className="text-2xl font-semibold">{gotDonation.title}</p>
+                        <p className="text-base font-semibold">${gotDonation.price}.00</p>
+                        <Link to={`/donation/${gotDonation.id}`}><button className="btn btn-primary px-4 p-1" >Details</button></Link>
                     </div>
-                    )
+                    </div>
+                </div>
+                )
             }
-        
         </div>
+        <div className={dataLength === donationReceived.length ? 'hidden' : ''}>
+          <button onClick={() => setDataLength(donationReceived.length)} className="btn btn-primary md:ml-[430px]">Show All</button>
+        </div>
+       </div>
     );
 };
 
