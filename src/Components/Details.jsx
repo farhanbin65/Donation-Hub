@@ -18,7 +18,7 @@ const Details = () => {
         <div>
             <div className="static">
                 <img className="w-full static" src={image} alt="" />
-                <div className="bg-black">
+                <div className="">
                     <Link><button onClick={handleDonate} className="btn btn-primary font-bold border-none absolute md:top-[720px] top-[490px] left-12 md:left-48">Donate ${price}</button></Link>
                 </div>
             </div>

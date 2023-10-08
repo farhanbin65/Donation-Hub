@@ -1,8 +1,7 @@
-# React + Vite
+Here is my 3 Project Features: 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Responsive Design: My site is responsive to all devices eg; laptop, tablet & mobile.
 
-Currently, two official plugins are available:
+Data Management:When the user select any item the data get stored in the browser internal storage, so the user can access their data when they get back to my project site(with the same browser).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Real-time Updates:All the components and ui is shown, all of them are dynamic. so the website is not static, it will change time to time
